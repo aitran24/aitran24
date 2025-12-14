@@ -51,8 +51,6 @@
   ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
   ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=&logoColor=white)
   ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-  
-  ### 🚩 CTF Platforms
   ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
   ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
   ![CTFtime](https://img.shields.io/badge/CTFtime-FF4444?style=for-the-badge&logo=&logoColor=white)
