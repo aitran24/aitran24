@@ -4,20 +4,9 @@
 
 <div align="center">
   
-  ### 🎓 About me:
+  ### About me:
   
   🌱 I'm a student at **University of Science and Technology - The University of Danang**
-  
-  📱 **Android Developer** specializing in **Kotlin**
-  
-  🔍 **Reverse Engineer** & **Mobile Security Researcher**
-  
-  🛡️ **Cybersecurity Enthusiast** & **CTF Player**
-  
-  🤖 Exploring **Artificial Intelligence** & **Machine Learning**
-  
-  💻 Building secure apps and breaking insecure ones to learn
-  
 </div>
 
 ---
@@ -57,11 +46,8 @@
   ![Objection](https://img.shields.io/badge/Objection-000000?style=for-the-badge&logo=&logoColor=white)
   ![IDA Pro](https://img.shields.io/badge/IDA_Pro-00599C?style=for-the-badge&logo=&logoColor=white)
   ![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=&logoColor=white)
-  ![MobSF](https://img.shields.io/badge/MobSF-1E88E5?style=for-the-badge&logo=&logoColor=white)
   
   ### 🛡️ Cybersecurity & CTF
-  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=&logoColor=white)
-  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
   ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
   ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=&logoColor=white)
   ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -83,21 +69,9 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   
 </div>
 
----
-
-<div align="center">
-  
-  ## 🏆 GitHub Trophies
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=aitran24&theme=tokyonight&no-frame=true&row=1&column=7)
-  
-</div>
-
----
 
 <div align="center">
   
@@ -106,23 +80,6 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aitran24)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aitran24@example.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aitran24)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/aitran24)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 💭 Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
-<div align="center">
-  
-  ### 👀 Profile Views
-  ![](https://komarev.com/ghpvc/?username=aitran24&color=blueviolet&style=flat-square&label=Profile+Views)
   
 </div>
 
