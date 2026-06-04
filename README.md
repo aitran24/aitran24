@@ -6,7 +6,7 @@ I'm a student at the University of Science and Technology - The University of Da
 
 - Exploring reverse engineering and mobile security
 - Enjoy CTF and cybersecurity challenges
-- I have some basic knowledge of AI
+- A bit of AI
 
 ## Tech
 
